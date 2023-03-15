@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+dist
+rest-http
+tests
+tools
+mysql_db

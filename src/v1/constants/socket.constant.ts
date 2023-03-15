@@ -1,0 +1,6 @@
+export const ORANGE_CLICK_EVENT='orange-click'
+export const BLUE_CLICK_EVENT='blue-click'
+export const RESET_CLICK_EVENT='reset-click'
+export const UPDATE_ORANGE_CLICK='update-orange-click'
+export const UPDATE_BLUE_CLICK='update-blue-click'
+export const RESET_ORANGE_BLUE='reset-orange-blue'
